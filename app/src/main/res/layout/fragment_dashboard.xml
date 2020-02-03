@@ -30,7 +30,7 @@
         android:background="@drawable/button_format"
         android:paddingLeft="@dimen/button_text_margin"
         android:paddingRight="@dimen/button_text_margin"
-        android:text="@string/input_meal"
+        android:text="@string/enter_meal"
         android:textAllCaps="false"
         android:textColor="@color/colorWhite"
         app:layout_constraintBottom_toBottomOf="parent"
